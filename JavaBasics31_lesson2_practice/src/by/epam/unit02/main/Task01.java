@@ -7,7 +7,7 @@ public class Task01 {
 	public static void main(String[] args) {
 		//Найдите значение функции: z = (a – 3 ) * b / 2 + c.
 		
-		float a,b,c,z;
+		float a,b,c,z;//code convention - каждую переменную объявляем в отдельной строке
 		a= 5.6f;
 		b=6;
 		c=-2.8f;
