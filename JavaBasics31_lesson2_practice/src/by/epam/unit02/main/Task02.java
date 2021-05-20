@@ -12,7 +12,7 @@ public class Task02 {
 		y= 12.22345245;
 		
 		if(x>y) {
-			System.out.println("x="+x+" y="+y);
+			System.out.println("x="+x+" y="+y);// здесь лучше использовать if, без else - и не повторять одинаковый вывод
 		} else {
 			temp=x;
 			x=y;
